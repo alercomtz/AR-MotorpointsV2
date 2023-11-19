@@ -41,3 +41,4 @@ General operation:
 - Point System: Points are awarded for successful tricks, visible on the screen, providing a more interactive gaming experience.
 
 - Customizable Settings: The script offers adjustable parameters to suit the server's preferences, including enabling coins, multipliers and more.
+  
