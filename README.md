@@ -5,7 +5,7 @@
 ## Contact:
 - Mail: alercomtz@gmail.com
 - Discord: alercomtz
-- - Discord Server: [alercomtz](https://discord.gg/5XTRy3Qbk7)
+- Discord Server: [alercomtz](https://discord.gg/5XTRy3Qbk7)
 
 # AR-MotorpointsV2
 Español:
