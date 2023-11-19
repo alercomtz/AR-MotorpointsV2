@@ -1,3 +1,11 @@
+
+## My Shop:
+- Tebex: https://alercomtz.tebex.io/
+
+## Contact:
+- Mail: alercomtz@gmail.com
+- Discord: alercomtz
+
 # AR-MotorpointsV2
 Español:
 
